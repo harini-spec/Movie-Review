@@ -1,0 +1,4 @@
+/* react player takes 90% of the screen to play the video  */
+.react-player-container{
+    height: 90vh;
+}
